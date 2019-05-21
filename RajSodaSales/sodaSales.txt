@@ -1,0 +1,10 @@
+Coke
+34 3.00 5.00
+Sprite
+18 2.89 4.30
+Fanta Mango
+21 3.35 5.99
+Orange Crush
+35 4.00 6.00
+Browns Cream Soda
+43 4.25 5.75

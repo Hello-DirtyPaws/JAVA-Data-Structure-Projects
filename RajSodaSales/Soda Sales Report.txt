@@ -1,0 +1,7 @@
+Soda Name            Number Sold Cost   Retail Profit Percent Bottle Sold
+------------------------------------------------------------
+Coke                       34   $ 3.00  $ 5.00  $68.00  22.67%
+Sprite                     18   $ 2.89  $ 4.30  $25.38  12.00%
+Fanta Mango                21   $ 3.35  $ 5.99  $55.44  14.00%
+Orange Crush               35   $ 4.00  $ 6.00  $70.00  23.33%
+Browns Cream Soda          43   $ 4.25  $ 5.75  $64.50  28.67%
